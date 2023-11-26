@@ -11,7 +11,11 @@ public class TrocaIMG : MonoBehaviour
     [SerializeField]
     private int x = 1;
     [SerializeField]
-    private int direcao = 0;
+    private GameObject balas;
+
+    private Vector2 dir;
+    [SerializeField]
+    private JoyControl joyC;
 
     void Start()
     {
@@ -36,26 +40,23 @@ public class TrocaIMG : MonoBehaviour
         }
 
         Mover();
+        Move2();
 
-    }
-
-    public void Direita()
-    {
-        direcao = -2;
-    }
-
-    public void Esquerda()
-    {
-        direcao = 2;
-    }
-
-    public void Parado()
-    {
-        direcao = -0;
     }
 
     void Mover()
     {
-        transform.Translate(direcao * Time.deltaTime, 0, 0);
+        transform.Translate((dir * 2) * Time.deltaTime);
+    }
+
+    void Move2()
+    {
+        dir.x = joyC.Hori();
+        dir.y = joyC.Verti();
+    }
+
+    public void Tiros()
+    {
+        Instantiate(balas, transform.position, Quaternion.identity);
     }
 }
