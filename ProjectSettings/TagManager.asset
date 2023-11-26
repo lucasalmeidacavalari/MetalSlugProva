@@ -3,7 +3,20 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - lf
+  - lt
+  - bala
+  - VEICULO
+  - pulo
+  - entrada
+  - tiro
+  - vilao
+  - bomba
+  - hero
+  - letal
+  - objs
+  - uicena
   layers:
   - Default
   - TransparentFX
@@ -13,13 +26,13 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - hero
+  - cam
+  - bomba
+  - veiculo
+  - vilao
+  - hmorto
+  - areavilao
   - 
   - 
   - 
@@ -40,4 +53,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Game
+    uniqueID: 794188397
+    locked: 0
+  - name: BOSS
+    uniqueID: 1368477521
     locked: 0

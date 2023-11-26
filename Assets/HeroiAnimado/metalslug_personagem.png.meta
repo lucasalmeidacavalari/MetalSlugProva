@@ -1,0 +1,2763 @@
+fileFormatVersion: 2
+guid: 0db90c32be814be469fc2240de47a362
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: metalslug_personagem_0
+  - first:
+      213: 21300002
+    second: metalslug_personagem_1
+  - first:
+      213: 21300004
+    second: metalslug_personagem_2
+  - first:
+      213: 21300006
+    second: metalslug_personagem_3
+  - first:
+      213: 21300008
+    second: metalslug_personagem_4
+  - first:
+      213: 21300010
+    second: metalslug_personagem_5
+  - first:
+      213: 21300012
+    second: metalslug_personagem_6
+  - first:
+      213: 21300014
+    second: metalslug_personagem_7
+  - first:
+      213: 21300016
+    second: metalslug_personagem_8
+  - first:
+      213: 21300018
+    second: metalslug_personagem_9
+  - first:
+      213: 21300020
+    second: metalslug_personagem_10
+  - first:
+      213: 21300022
+    second: metalslug_personagem_11
+  - first:
+      213: 21300024
+    second: metalslug_personagem_12
+  - first:
+      213: 21300026
+    second: metalslug_personagem_13
+  - first:
+      213: 21300028
+    second: metalslug_personagem_14
+  - first:
+      213: 21300030
+    second: metalslug_personagem_15
+  - first:
+      213: 21300032
+    second: metalslug_personagem_16
+  - first:
+      213: 21300034
+    second: metalslug_personagem_17
+  - first:
+      213: 21300036
+    second: metalslug_personagem_18
+  - first:
+      213: 21300038
+    second: metalslug_personagem_19
+  - first:
+      213: 21300040
+    second: metalslug_personagem_20
+  - first:
+      213: 21300042
+    second: metalslug_personagem_21
+  - first:
+      213: 21300044
+    second: metalslug_personagem_22
+  - first:
+      213: 21300046
+    second: metalslug_personagem_23
+  - first:
+      213: 21300048
+    second: metalslug_personagem_24
+  - first:
+      213: 21300050
+    second: metalslug_personagem_25
+  - first:
+      213: 21300052
+    second: metalslug_personagem_26
+  - first:
+      213: 21300054
+    second: metalslug_personagem_27
+  - first:
+      213: 21300056
+    second: metalslug_personagem_28
+  - first:
+      213: 21300058
+    second: metalslug_personagem_29
+  - first:
+      213: 21300060
+    second: metalslug_personagem_30
+  - first:
+      213: 21300062
+    second: metalslug_personagem_31
+  - first:
+      213: 21300064
+    second: metalslug_personagem_32
+  - first:
+      213: 21300066
+    second: metalslug_personagem_33
+  - first:
+      213: 21300068
+    second: metalslug_personagem_34
+  - first:
+      213: 21300070
+    second: metalslug_personagem_35
+  - first:
+      213: 21300072
+    second: metalslug_personagem_36
+  - first:
+      213: 21300074
+    second: metalslug_personagem_37
+  - first:
+      213: 21300076
+    second: metalslug_personagem_38
+  - first:
+      213: 21300078
+    second: metalslug_personagem_39
+  - first:
+      213: 21300080
+    second: metalslug_personagem_40
+  - first:
+      213: 21300082
+    second: metalslug_personagem_41
+  - first:
+      213: 21300084
+    second: metalslug_personagem_42
+  - first:
+      213: 21300086
+    second: metalslug_personagem_43
+  - first:
+      213: 21300088
+    second: metalslug_personagem_44
+  - first:
+      213: 21300090
+    second: metalslug_personagem_45
+  - first:
+      213: 21300092
+    second: metalslug_personagem_46
+  - first:
+      213: 21300094
+    second: metalslug_personagem_47
+  - first:
+      213: 21300096
+    second: metalslug_personagem_48
+  - first:
+      213: 21300098
+    second: metalslug_personagem_49
+  - first:
+      213: 21300100
+    second: metalslug_personagem_50
+  - first:
+      213: 21300102
+    second: metalslug_personagem_51
+  - first:
+      213: 21300104
+    second: metalslug_personagem_52
+  - first:
+      213: 21300106
+    second: metalslug_personagem_53
+  - first:
+      213: 21300108
+    second: metalslug_personagem_54
+  - first:
+      213: 21300110
+    second: metalslug_personagem_55
+  - first:
+      213: 21300112
+    second: metalslug_personagem_56
+  - first:
+      213: 21300114
+    second: metalslug_personagem_57
+  - first:
+      213: 21300116
+    second: metalslug_personagem_58
+  - first:
+      213: 21300118
+    second: metalslug_personagem_59
+  - first:
+      213: 21300120
+    second: metalslug_personagem_60
+  - first:
+      213: 21300122
+    second: metalslug_personagem_61
+  - first:
+      213: 21300124
+    second: metalslug_personagem_62
+  - first:
+      213: 21300126
+    second: metalslug_personagem_63
+  - first:
+      213: 21300128
+    second: metalslug_personagem_64
+  - first:
+      213: 21300130
+    second: metalslug_personagem_65
+  - first:
+      213: 21300132
+    second: metalslug_personagem_66
+  - first:
+      213: 21300134
+    second: metalslug_personagem_67
+  - first:
+      213: 21300136
+    second: metalslug_personagem_68
+  - first:
+      213: 21300138
+    second: metalslug_personagem_69
+  - first:
+      213: 21300140
+    second: metalslug_personagem_70
+  - first:
+      213: 21300142
+    second: metalslug_personagem_71
+  - first:
+      213: 21300144
+    second: metalslug_personagem_72
+  - first:
+      213: 21300146
+    second: metalslug_personagem_73
+  - first:
+      213: 21300148
+    second: metalslug_personagem_74
+  - first:
+      213: 21300150
+    second: metalslug_personagem_75
+  - first:
+      213: 21300152
+    second: metalslug_personagem_76
+  - first:
+      213: 21300154
+    second: metalslug_personagem_77
+  - first:
+      213: 21300156
+    second: metalslug_personagem_78
+  - first:
+      213: 21300158
+    second: metalslug_personagem_79
+  - first:
+      213: 21300160
+    second: metalslug_personagem_80
+  - first:
+      213: 21300162
+    second: metalslug_personagem_81
+  - first:
+      213: 21300164
+    second: metalslug_personagem_82
+  - first:
+      213: 21300166
+    second: metalslug_personagem_83
+  - first:
+      213: 21300168
+    second: metalslug_personagem_84
+  - first:
+      213: 21300170
+    second: metalslug_personagem_85
+  - first:
+      213: 21300172
+    second: metalslug_personagem_86
+  - first:
+      213: 21300174
+    second: metalslug_personagem_87
+  - first:
+      213: 21300176
+    second: metalslug_personagem_88
+  - first:
+      213: 21300178
+    second: metalslug_personagem_89
+  - first:
+      213: 21300180
+    second: metalslug_personagem_90
+  - first:
+      213: 21300182
+    second: metalslug_personagem_91
+  - first:
+      213: 21300184
+    second: metalslug_personagem_92
+  - first:
+      213: 21300186
+    second: metalslug_personagem_93
+  - first:
+      213: 21300188
+    second: metalslug_personagem_94
+  - first:
+      213: 21300190
+    second: metalslug_personagem_95
+  - first:
+      213: 21300192
+    second: metalslug_personagem_96
+  - first:
+      213: 21300194
+    second: metalslug_personagem_97
+  - first:
+      213: 21300196
+    second: metalslug_personagem_98
+  - first:
+      213: 21300198
+    second: metalslug_personagem_99
+  - first:
+      213: 21300200
+    second: metalslug_personagem_100
+  - first:
+      213: 21300202
+    second: metalslug_personagem_101
+  - first:
+      213: 21300204
+    second: metalslug_personagem_102
+  - first:
+      213: 21300206
+    second: metalslug_personagem_103
+  - first:
+      213: 21300208
+    second: metalslug_personagem_104
+  - first:
+      213: 21300210
+    second: metalslug_personagem_105
+  - first:
+      213: 21300212
+    second: metalslug_personagem_106
+  - first:
+      213: 21300214
+    second: metalslug_personagem_107
+  - first:
+      213: 21300216
+    second: metalslug_personagem_108
+  - first:
+      213: 21300218
+    second: metalslug_personagem_109
+  - first:
+      213: 21300220
+    second: metalslug_personagem_110
+  - first:
+      213: 21300222
+    second: metalslug_personagem_111
+  - first:
+      213: 21300224
+    second: metalslug_personagem_112
+  - first:
+      213: 21300226
+    second: metalslug_personagem_113
+  - first:
+      213: 21300228
+    second: metalslug_personagem_114
+  - first:
+      213: 21300230
+    second: metalslug_personagem_115
+  - first:
+      213: 21300232
+    second: metalslug_personagem_116
+  - first:
+      213: 21300234
+    second: metalslug_personagem_117
+  - first:
+      213: 21300236
+    second: metalslug_personagem_118
+  - first:
+      213: 21300238
+    second: metalslug_personagem_119
+  - first:
+      213: 21300240
+    second: metalslug_personagem_120
+  - first:
+      213: 21300242
+    second: metalslug_personagem_121
+  - first:
+      213: 21300244
+    second: metalslug_personagem_122
+  - first:
+      213: 21300246
+    second: metalslug_personagem_123
+  - first:
+      213: 21300248
+    second: metalslug_personagem_124
+  - first:
+      213: 21300250
+    second: metalslug_personagem_125
+  - first:
+      213: 21300252
+    second: metalslug_personagem_126
+  - first:
+      213: 21300254
+    second: metalslug_personagem_127
+  - first:
+      213: 21300256
+    second: metalslug_personagem_128
+  - first:
+      213: 21300258
+    second: metalslug_personagem_129
+  - first:
+      213: 21300260
+    second: metalslug_personagem_130
+  - first:
+      213: 21300262
+    second: metalslug_personagem_131
+  - first:
+      213: 21300264
+    second: metalslug_personagem_132
+  - first:
+      213: 21300266
+    second: metalslug_personagem_133
+  - first:
+      213: 21300268
+    second: metalslug_personagem_134
+  - first:
+      213: 21300270
+    second: metalslug_personagem_135
+  - first:
+      213: 21300272
+    second: metalslug_personagem_136
+  - first:
+      213: 21300274
+    second: metalslug_personagem_137
+  - first:
+      213: 21300276
+    second: metalslug_personagem_138
+  - first:
+      213: 21300278
+    second: metalslug_personagem_139
+  - first:
+      213: 21300280
+    second: metalslug_personagem_140
+  - first:
+      213: 21300282
+    second: metalslug_personagem_141
+  - first:
+      213: 21300284
+    second: metalslug_personagem_142
+  - first:
+      213: 21300286
+    second: metalslug_personagem_143
+  - first:
+      213: 21300288
+    second: metalslug_personagem_144
+  - first:
+      213: 21300290
+    second: metalslug_personagem_145
+  - first:
+      213: 21300292
+    second: metalslug_personagem_146
+  - first:
+      213: 21300294
+    second: metalslug_personagem_147
+  - first:
+      213: 21300296
+    second: metalslug_personagem_148
+  - first:
+      213: 21300298
+    second: metalslug_personagem_149
+  - first:
+      213: 21300300
+    second: metalslug_personagem_150
+  - first:
+      213: 21300302
+    second: metalslug_personagem_151
+  - first:
+      213: 21300304
+    second: metalslug_personagem_152
+  - first:
+      213: 21300306
+    second: metalslug_personagem_153
+  - first:
+      213: 21300308
+    second: metalslug_personagem_154
+  - first:
+      213: 21300310
+    second: metalslug_personagem_155
+  - first:
+      213: 21300312
+    second: metalslug_personagem_156
+  - first:
+      213: 21300314
+    second: metalslug_personagem_157
+  - first:
+      213: 21300316
+    second: metalslug_personagem_158
+  - first:
+      213: 21300318
+    second: metalslug_personagem_159
+  - first:
+      213: 21300320
+    second: metalslug_personagem_160
+  - first:
+      213: 21300322
+    second: metalslug_personagem_161
+  - first:
+      213: 21300324
+    second: metalslug_personagem_162
+  - first:
+      213: 21300326
+    second: metalslug_personagem_163
+  - first:
+      213: 21300328
+    second: metalslug_personagem_164
+  - first:
+      213: 21300330
+    second: metalslug_personagem_165
+  - first:
+      213: 21300332
+    second: metalslug_personagem_166
+  - first:
+      213: 21300334
+    second: metalslug_personagem_167
+  - first:
+      213: 21300336
+    second: metalslug_personagem_168
+  - first:
+      213: 21300338
+    second: metalslug_personagem_169
+  - first:
+      213: 21300340
+    second: metalslug_personagem_170
+  - first:
+      213: 21300342
+    second: metalslug_personagem_171
+  - first:
+      213: 21300344
+    second: metalslug_personagem_172
+  - first:
+      213: 21300346
+    second: metalslug_personagem_173
+  - first:
+      213: 21300348
+    second: metalslug_personagem_174
+  - first:
+      213: 21300350
+    second: metalslug_personagem_175
+  - first:
+      213: 21300352
+    second: metalslug_personagem_176
+  - first:
+      213: 21300354
+    second: metalslug_personagem_177
+  - first:
+      213: 21300356
+    second: metalslug_personagem_178
+  - first:
+      213: 21300358
+    second: metalslug_personagem_179
+  - first:
+      213: 21300360
+    second: metalslug_personagem_180
+  - first:
+      213: 21300362
+    second: metalslug_personagem_181
+  - first:
+      213: 21300364
+    second: metalslug_personagem_182
+  - first:
+      213: 21300366
+    second: metalslug_personagem_183
+  - first:
+      213: 21300368
+    second: metalslug_personagem_184
+  - first:
+      213: 21300370
+    second: metalslug_personagem_185
+  - first:
+      213: 21300372
+    second: metalslug_personagem_186
+  - first:
+      213: 21300374
+    second: metalslug_personagem_187
+  - first:
+      213: 21300376
+    second: metalslug_personagem_188
+  - first:
+      213: 21300378
+    second: metalslug_personagem_189
+  - first:
+      213: 21300380
+    second: metalslug_personagem_190
+  - first:
+      213: 21300382
+    second: metalslug_personagem_191
+  - first:
+      213: 21300384
+    second: metalslug_personagem_192
+  - first:
+      213: 21300386
+    second: metalslug_personagem_193
+  - first:
+      213: 21300388
+    second: metalslug_personagem_194
+  - first:
+      213: 21300390
+    second: metalslug_personagem_195
+  - first:
+      213: 21300392
+    second: metalslug_personagem_196
+  - first:
+      213: 21300394
+    second: metalslug_personagem_197
+  - first:
+      213: 21300396
+    second: metalslug_personagem_198
+  - first:
+      213: 21300398
+    second: metalslug_personagem_199
+  - first:
+      213: 21300400
+    second: metalslug_personagem_200
+  - first:
+      213: 21300402
+    second: metalslug_personagem_201
+  - first:
+      213: 21300404
+    second: metalslug_personagem_202
+  - first:
+      213: 21300406
+    second: metalslug_personagem_203
+  - first:
+      213: 21300408
+    second: metalslug_personagem_204
+  - first:
+      213: 21300410
+    second: metalslug_personagem_205
+  - first:
+      213: 21300412
+    second: metalslug_personagem_206
+  - first:
+      213: 21300414
+    second: metalslug_personagem_207
+  - first:
+      213: 21300416
+    second: metalslug_personagem_208
+  - first:
+      213: 21300418
+    second: metalslug_personagem_209
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: metalslug_personagem_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 560
+        width: 29
+        height: 40
+      alignment: 9
+      pivot: {x: -0.0009739481, y: 0.00035022554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 504
+        width: 50
+        height: 37
+      alignment: 9
+      pivot: {x: -0.0013060188, y: -0.00020372546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 504
+        width: 51
+        height: 37
+      alignment: 9
+      pivot: {x: -0.0029062757, y: -0.00020372546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 504
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 0.0003742218, y: -0.00020372546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 504
+        width: 40
+        height: 39
+      alignment: 9
+      pivot: {x: -0.0012477875, y: 0.000016432543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 504
+        width: 32
+        height: 38
+      alignment: 9
+      pivot: {x: -0.0033049583, y: -0.0033055355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 504
+        width: 33
+        height: 37
+      alignment: 9
+      pivot: {x: 0.00090350525, y: 0.0041932804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 504
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: -0.00118321, y: 0.00057488517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 504
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: -0.0021396214, y: -0.0030443347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_9
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 504
+        width: 33
+        height: 37
+      alignment: 9
+      pivot: {x: 0.00090350525, y: 0.00057488517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 504
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: -0.005859375, y: 0.00057488517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 464
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: 0.005299568, y: 0.0041932804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 464
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.000574679, y: -0.0030443347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 464
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: -0.00118321, y: 0.00057488517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_14
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 464
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: -0.00118321, y: 0.0041932804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 464
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: -0.0050092423, y: 0.00057488517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 464
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: -0.00037785582, y: -0.00037825736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_17
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 464
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: -0.00037785582, y: -0.00037825736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_18
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 464
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: -0.00037745424, y: -0.00037825736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_19
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 464
+        width: 39
+        height: 38
+      alignment: 9
+      pivot: {x: -0.0012817383, y: -0.00037825736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_20
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 463
+        width: 41
+        height: 38
+      alignment: 9
+      pivot: {x: 0.00030964176, y: -0.00037745424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 424
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_22
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 424
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_59
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 363
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 364
+        width: 29
+        height: 46
+      alignment: 9
+      pivot: {x: -0.0024502196, y: 0.0010296366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_61
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 365
+        width: 29
+        height: 44
+      alignment: 9
+      pivot: {x: 0.0019964022, y: 0.00032875754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_62
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 367
+        width: 29
+        height: 41
+      alignment: 9
+      pivot: {x: -0.002449825, y: -0.00006401248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_63
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 370
+        width: 29
+        height: 37
+      alignment: 9
+      pivot: {x: -0.002450088, y: 0.0016355772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_64
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 371
+        width: 29
+        height: 36
+      alignment: 9
+      pivot: {x: -0.00022677718, y: 0.00032891167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_65
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 370
+        width: 29
+        height: 37
+      alignment: 9
+      pivot: {x: -0.0024503511, y: -0.00010639912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_66
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 366
+        width: 29
+        height: 41
+      alignment: 9
+      pivot: {x: -0.00022677718, y: -0.00006401248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_67
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 364
+        width: 29
+        height: 44
+      alignment: 9
+      pivot: {x: -0.00022677718, y: 0.0017942949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_76
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 293
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_85
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 200
+        width: 41
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_86
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 198
+        width: 47
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_87
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 198
+        width: 47
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_88
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 197
+        width: 48
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_89
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 196
+        width: 48
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_90
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 194
+        width: 47
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_91
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 191
+        width: 48
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_92
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 94
+        width: 47
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_93
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 94
+        width: 47
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_94
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 98
+        width: 48
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_95
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 103
+        width: 48
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_96
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 108
+        width: 48
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_97
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 107
+        width: 48
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_98
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 109
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_99
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 113
+        width: 48
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_102
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 91
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_103
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 19
+        width: 48
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_104
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 22
+        width: 48
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_105
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 25
+        width: 48
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_106
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 29
+        width: 54
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_107
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 76
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_111
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 23
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_112
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 52
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_113
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 52
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_116
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 35
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_117
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_119
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 33
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_120
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 27
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_125
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 20
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_127
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 20
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_143
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 20
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_183
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 3
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8405410000000000800000000000000
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_184
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09405410000000000800000000000000
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_185
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 3
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29405410000000000800000000000000
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_186
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 3
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49405410000000000800000000000000
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_187
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69405410000000000800000000000000
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_188
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 3
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89405410000000000800000000000000
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_189
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 3
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9405410000000000800000000000000
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_198
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca405410000000000800000000000000
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_200
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 560
+        width: 29
+        height: 40
+      alignment: 9
+      pivot: {x: 0.0011669027, y: 0.0002029419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b405410000000000800000000000000
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_201
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 560
+        width: 29
+        height: 40
+      alignment: 9
+      pivot: {x: 0.0011075776, y: 0.00017547607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b405410000000000800000000000000
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_202
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 558
+        width: 32
+        height: 42
+      alignment: 9
+      pivot: {x: -0.0008201599, y: 0.0015563965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b405410000000000800000000000000
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_203
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 558
+        width: 32
+        height: 42
+      alignment: 9
+      pivot: {x: -0.0008201599, y: 0.00014822824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b405410000000000800000000000000
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_204
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 558
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: -0.00019779912, y: 0.00016276042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b405410000000000800000000000000
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_205
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 558
+        width: 29
+        height: 42
+      alignment: 9
+      pivot: {x: -0.00044092638, y: 0.00016276042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab405410000000000800000000000000
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_206
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 558
+        width: 32
+        height: 42
+      alignment: 9
+      pivot: {x: 0.0005264282, y: -0.00048682804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb405410000000000800000000000000
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_207
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 558
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: -0.0014309353, y: -0.0002572196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb405410000000000800000000000000
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_208
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 558
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.00042527722, y: -0.0010405041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c405410000000000800000000000000
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_209
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 362
+        width: 28
+        height: 49
+      alignment: 9
+      pivot: {x: -0.0019734162, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c405410000000000800000000000000
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 300
+        width: 31
+        height: 40
+      alignment: 9
+      pivot: {x: 0.0014065619, y: -0.002332306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 300
+        width: 31
+        height: 40
+      alignment: 9
+      pivot: {x: -0.00047905213, y: -0.0050697327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_25
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 300
+        width: 31
+        height: 40
+      alignment: 9
+      pivot: {x: -0.0040797573, y: 0.00051116943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 300
+        width: 31
+        height: 40
+      alignment: 9
+      pivot: {x: -0.00047892908, y: -0.0022789002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 300
+        width: 31
+        height: 40
+      alignment: 9
+      pivot: {x: -0.00047892908, y: -0.0022789002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_28
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 300
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 39
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_personagem_30
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 324
+        width: 20
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      metalslug_personagem_0: 21300000
+      metalslug_personagem_1: 21300002
+      metalslug_personagem_10: 21300020
+      metalslug_personagem_102: 21300204
+      metalslug_personagem_103: 21300206
+      metalslug_personagem_104: 21300208
+      metalslug_personagem_105: 21300210
+      metalslug_personagem_106: 21300212
+      metalslug_personagem_107: 21300214
+      metalslug_personagem_11: 21300022
+      metalslug_personagem_111: 21300222
+      metalslug_personagem_112: 21300224
+      metalslug_personagem_113: 21300226
+      metalslug_personagem_116: 21300232
+      metalslug_personagem_117: 21300234
+      metalslug_personagem_119: 21300238
+      metalslug_personagem_12: 21300024
+      metalslug_personagem_120: 21300240
+      metalslug_personagem_125: 21300250
+      metalslug_personagem_127: 21300254
+      metalslug_personagem_13: 21300026
+      metalslug_personagem_14: 21300028
+      metalslug_personagem_143: 21300286
+      metalslug_personagem_15: 21300030
+      metalslug_personagem_16: 21300032
+      metalslug_personagem_17: 21300034
+      metalslug_personagem_18: 21300036
+      metalslug_personagem_183: 21300366
+      metalslug_personagem_184: 21300368
+      metalslug_personagem_185: 21300370
+      metalslug_personagem_186: 21300372
+      metalslug_personagem_187: 21300374
+      metalslug_personagem_188: 21300376
+      metalslug_personagem_189: 21300378
+      metalslug_personagem_19: 21300038
+      metalslug_personagem_198: 21300396
+      metalslug_personagem_2: 21300004
+      metalslug_personagem_20: 21300040
+      metalslug_personagem_200: 21300400
+      metalslug_personagem_201: 21300402
+      metalslug_personagem_202: 21300404
+      metalslug_personagem_203: 21300406
+      metalslug_personagem_204: 21300408
+      metalslug_personagem_205: 21300410
+      metalslug_personagem_206: 21300412
+      metalslug_personagem_207: 21300414
+      metalslug_personagem_208: 21300416
+      metalslug_personagem_209: 21300418
+      metalslug_personagem_21: 21300042
+      metalslug_personagem_22: 21300044
+      metalslug_personagem_23: 21300046
+      metalslug_personagem_24: 21300048
+      metalslug_personagem_25: 21300050
+      metalslug_personagem_26: 21300052
+      metalslug_personagem_27: 21300054
+      metalslug_personagem_28: 21300056
+      metalslug_personagem_29: 21300058
+      metalslug_personagem_3: 21300006
+      metalslug_personagem_30: 21300060
+      metalslug_personagem_4: 21300008
+      metalslug_personagem_5: 21300010
+      metalslug_personagem_59: 21300118
+      metalslug_personagem_6: 21300012
+      metalslug_personagem_60: 21300120
+      metalslug_personagem_61: 21300122
+      metalslug_personagem_62: 21300124
+      metalslug_personagem_63: 21300126
+      metalslug_personagem_64: 21300128
+      metalslug_personagem_65: 21300130
+      metalslug_personagem_66: 21300132
+      metalslug_personagem_67: 21300134
+      metalslug_personagem_7: 21300014
+      metalslug_personagem_76: 21300152
+      metalslug_personagem_8: 21300016
+      metalslug_personagem_85: 21300170
+      metalslug_personagem_86: 21300172
+      metalslug_personagem_87: 21300174
+      metalslug_personagem_88: 21300176
+      metalslug_personagem_89: 21300178
+      metalslug_personagem_9: 21300018
+      metalslug_personagem_90: 21300180
+      metalslug_personagem_91: 21300182
+      metalslug_personagem_92: 21300184
+      metalslug_personagem_93: 21300186
+      metalslug_personagem_94: 21300188
+      metalslug_personagem_95: 21300190
+      metalslug_personagem_96: 21300192
+      metalslug_personagem_97: 21300194
+      metalslug_personagem_98: 21300196
+      metalslug_personagem_99: 21300198
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

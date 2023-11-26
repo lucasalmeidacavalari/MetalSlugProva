@@ -6,13 +6,22 @@ EditorUserSettings:
   serializedVersion: 4
   m_ConfigSettings:
     RecentlyUsedSceneGuid-0:
-      value: 51080052070c0f0d5b5d592647205e44174e1979792c2432282a4b35b2b0663b
+      value: 0505510504005803095f0f7649770748174f192c2f2d7f327c7a1c67b5b7323c
       flags: 0
     RecentlyUsedSceneGuid-1:
-      value: 515250075c0c595e5f5a5e71122159444e4e4a2f7a7d7f602f284d66b4b76661
+      value: 5508055656020d5e0859557242775b43454f4e7e7c7124367b791b63e7e6606b
       flags: 0
     RecentlyUsedSceneGuid-2:
+      value: 0702525656505b59580b5524167a0f4444154e2c2f7f77687b2d4f61e0e2353a
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 5300560750015d0d0b080a2142775943424e417f2a2a7f637c7a1e67e4b4616c
+      flags: 0
+    RecentlyUsedSceneGuid-4:
       value: 0650040056510b0909575972477a0a4413151a7e7c2d7760747c4932e0b63661
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 05020250075050095d5b557b41735a444215192e7a702332752d4832b4b5613d
       flags: 0
     vcSharedLogLevel:
       value: 0d5e400f0650
@@ -30,5 +39,5 @@ EditorUserSettings:
   m_VCProjectOverlayIcons: 1
   m_VCHierarchyOverlayIcons: 1
   m_VCOtherOverlayIcons: 1
-  m_VCAllowAsyncUpdate: 1
+  m_VCAllowAsyncUpdate: 0
   m_ArtifactGarbageCollection: 1
